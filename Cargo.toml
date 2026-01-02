@@ -1,0 +1,7 @@
+[package]
+name = "tempora-bloom"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bit-vec = "0.8"
